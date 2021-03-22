@@ -106,7 +106,7 @@ a:hover {
   line-height: 18px; }
 
 .qrt-white {
-  color:red !important; }
+  color: DODGERBLUE !important; }
   .qrt-white * {
     color: white !important; }
 
@@ -124,7 +124,7 @@ h4,
 h5,
 h6 {
   font-weight: 800;
-  color :red;
+  color :DODGERBLUE;
   margin: 0;
   font-family: "Commissioner", sans-serif; }
   h1 a,
@@ -291,7 +291,7 @@ blockquote {
     outline: inherit;
     color: inherit; }
   .qrt-btn.qrt-btn-color {
-    background-color: #ff7043;
+    background-color: DODGERBLUE;
     color: #28292c; }
     .qrt-btn.qrt-btn-color:hover {
       color: #28292c; }
@@ -593,7 +593,7 @@ body {
             position: absolute;
             bottom: 0;
             left: -20%;
-            background-color: #ff7043; }
+            background-color: DODGERBLUE; }
           .qrt-app .qrt-top-bar .qrt-menu nav ul li.current-menu-item:after {
             content: '';
             width: 135%; }
